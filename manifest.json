@@ -1,0 +1,7 @@
+{
+  "name": "todo-app",
+  "short_name": "todo-app",
+  "description": "Aplicación To-Do List en polymer",
+  "start_url": "/",
+  "display": "standalone"
+}
